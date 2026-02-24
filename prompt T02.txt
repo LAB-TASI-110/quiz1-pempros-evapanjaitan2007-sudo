@@ -1,0 +1,21 @@
+1. Soal Pemrograman - Penjumlahan Nilai Siswa
+Deskripsi Masalah
+Data nilai siswa disimpan dalam sebuah rak fisik yang tersusun rapat. Perhatikan pola penyimpanan pada gambar di bawah ini untuk memahami bagaimana kelompok siswa dipisahkan. Input:
+
+Jumlah total data (N).
+Deret nilai (n1, n2, …, n).
+Kode kelompok siswa
+Tugas Buatlah program yang mampu menentukan total nilai hanya untuk kelompok yang diminta.
+
+
+
+NB: Kamu dapat menekan Ctrl + Shift + V untuk melihat soal dengan gambar atau kamu dapat menekan ctrl + Klik pada link gambar.  kerjakan program ini sesuai dengan input yang diminta , buat daam pemograman bahasa c 
+
+2. program ini  salah output 
+
+3. mengapa programnya tidak menghasilkan output apapun 
+
+4. buat dulu perintah input nya agar tau memasukkan nilainya 
+
+5. kenapa ketika di terminalakan hasilnya seperti ini 
+
